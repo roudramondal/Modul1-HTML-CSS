@@ -1,0 +1,22 @@
+h3{
+    font-size: 25px;
+    text-decoration: underline;
+    font-family: 'Courier New', Courier, monospace
+}
+/* .second{
+    display: none;
+}  if i use this code then it will never show second blog*/
+
+.second{
+    visibility: visible;
+}
+.blog{
+    margin: 20px;
+    border: 10px solid tomato;
+    box-shadow: 10px 10px 10px darkcyan;
+}
+.inci
+{
+    border: 2px solid green;
+    /* display: block; if i use this line then it print next line i mean new line  */
+}
