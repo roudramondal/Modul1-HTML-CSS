@@ -1,3 +1,16 @@
+.header{
+    height: 400px;
+    /*  background-color: beige; */
+    background-image: url("https://www.shutterstock.com/image-photo/photo-friendly-senior-woman-granny-260nw-2481161163.jpg");
+    /* background-repeat: no-repeat; No dopilcate  */
+    /* background-repeat: repeat-x; it just repeat only x axis wise */
+    /* background-repeat: repeat-y; it work with y asix wise  */
+   /* background-size: cover;    */
+   /* background-size: contain; */
+    /* background-size: 100px; */
+    /* background-image: url(../photo-1499209974431-9dddcece7f88.png); this use for another location  */
+
+}
 h3{
     font-size: 25px;
     text-decoration: underline;
@@ -6,7 +19,11 @@ h3{
 /* .second{
     display: none;
 }  if i use this code then it will never show second blog*/
-
+.dolar{
+    border: 3px solid peru;
+    height: 20px;
+    display: inline-block;
+}
 .second{
     visibility: visible;
 }
