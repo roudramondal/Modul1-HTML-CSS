@@ -1,0 +1,39 @@
+.header{
+    height: 400px;
+    /*  background-color: beige; */
+    background-image: url("https://www.shutterstock.com/image-photo/photo-friendly-senior-woman-granny-260nw-2481161163.jpg");
+    /* background-repeat: no-repeat; No dopilcate  */
+    /* background-repeat: repeat-x; it just repeat only x axis wise */
+    /* background-repeat: repeat-y; it work with y asix wise  */
+   /* background-size: cover;    */
+   /* background-size: contain; */
+    /* background-size: 100px; */
+    /* background-image: url(../photo-1499209974431-9dddcece7f88.png); this use for another location  */
+
+}
+h3{
+    font-size: 25px;
+    text-decoration: underline;
+    font-family: 'Courier New', Courier, monospace
+}
+/* .second{
+    display: none;
+}  if i use this code then it will never show second blog*/
+.dolar{
+    border: 3px solid peru;
+    height: 20px;
+    display: inline-block;
+}
+.second{
+    visibility: visible;
+}
+.blog{
+    margin: 20px;
+    border: 10px solid tomato;
+    box-shadow: 10px 10px 10px darkcyan;
+}
+.inci
+{
+    border: 2px solid green;
+    /* display: block; if i use this line then it print next line i mean new line  */
+}
